@@ -1,0 +1,16 @@
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\bin\Debug\net5.0\EduardoEckert01.exe
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\bin\Debug\net5.0\EduardoEckert01.deps.json
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\bin\Debug\net5.0\EduardoEckert01.runtimeconfig.json
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\bin\Debug\net5.0\EduardoEckert01.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\bin\Debug\net5.0\EduardoEckert01.dll
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\bin\Debug\net5.0\ref\EduardoEckert01.dll
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\bin\Debug\net5.0\EduardoEckert01.pdb
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\EduardoEckert01.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\EduardoEckert01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\EduardoEckert01.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\EduardoEckert01.AssemblyInfo.cs
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\EduardoEckert01.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\EduardoEckert01.dll
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\ref\EduardoEckert01.dll
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\EduardoEckert01.pdb
+C:\Users\eduar\source\repos\EduardoEckert01\EduardoEckert01\obj\Debug\net5.0\EduardoEckert01.genruntimeconfig.cache
